@@ -24,10 +24,10 @@
  - POSIX_Thread
  thread 처리에 대한 실습 코드
  
- -IPC
+ - IPC
  FIFO, PIPE 등 프로세스 스케쥴링에 대한 실습 코드
  
- -Shared_memory
+ - Shared_memory
  공유 메모리에 대한 실습코드
  
 2. 디바이스 드라이버
